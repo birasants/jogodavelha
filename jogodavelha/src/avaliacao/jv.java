@@ -1,7 +1,7 @@
 package avaliacao;
 
 public class jv {
-	private String [] [] matriz = {{"1 ","2 ","3"},
+	private String [] [] matriz = {{"1","2","3"},
 								   {"4","5","6"},
 								   {"7","8","9"}}; //utiliza-se o private  porque nossa intenção não é utiliza-lo no main; por isso utilizamos o private.
 
